@@ -1,1 +1,2 @@
-# zoo-coding-task
+# Hayvanat Bahcesi Projesi
+Bu proje, OOP ilkelerine uygun olarak tasarlanmış ve "spatial partitioning" tekniği ile desteklenen statik bir grid sistemi üzerinde çalışan bir hayvanat bahçesi simülasyonudur. Simülasyon, önceden belirlenmiş kurallara ve birimlere göre hareket eden, avlanan ve çoğalan çeşitli hayvan türlerini içerir.  Hayvanların 1000 birim hareket ettikten sonra kaç tanesinin hayatta kaldığını gösterecek şekilde uygulanmıştır.
